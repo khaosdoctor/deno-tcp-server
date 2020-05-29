@@ -1,2 +1,2 @@
 run:
-	deno run --allow-net index.ts $(URL)
+	deno run --allow-net --allow-env index.ts
